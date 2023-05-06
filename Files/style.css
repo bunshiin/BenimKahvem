@@ -183,6 +183,9 @@ header {
     color: var(--bg-color);
     margin: 1rem 0 2rem;
 }
+.home-img {
+    width: 80%;
+}
 
 .btn {
     padding: 20px 50px;
